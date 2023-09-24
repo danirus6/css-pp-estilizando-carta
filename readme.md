@@ -10,6 +10,10 @@ En el siguiente ejercicio, tendrás que realizar una carta aplicando las reglas 
 
 ![](image.gif)
 
+## Carta ##
+
+[Link a repositorio](https://github.com/TheBridge-FullStackDeveloper/html-pp-cartas)
+
 ## Requisitos ##
 
 [Selectores CSS](https://www.w3schools.com/css/css_selectors.asp)
