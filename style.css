@@ -1,0 +1,45 @@
+/*Direccion arriba derecha*/
+body{
+    margin:50px;
+    font-size: 1.1rem;
+}
+.direccion{
+
+    text-align: right;
+    font-style: italic;
+    top: 0px;
+    right: 0px;
+
+}
+.aplicarNegrita{
+    font-weight: bold;
+}
+.aplicarMargenTop{
+    margin-top:40px;
+    font-style: normal;
+}
+
+/*Direccion Izquierda*/
+.direccion2{
+        font-style: italic;
+}
+
+.tituloPrincipal{
+    font-family: 'Lato', sans-serif;
+}
+.subrayado{
+    text-decoration:underline;
+}
+.linkClicado {
+    color: purple;
+}
+.tabulado{
+    padding-left: 25px;
+}
+.margenTopx3{
+    margin-top: 120px;
+}
+.aplicarItalicNegrita{
+    font-style: italic;
+    font-weight: bold;
+}
