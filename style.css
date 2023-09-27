@@ -1,7 +1,11 @@
 /*Direccion arriba derecha*/
 body{
-    margin:50px;
+    width: 70%;
+    margin:auto;
+    display: block;
     font-size: 1.1rem;
+    margin-top: 50px;
+    margin-bottom: 50px;
 }
 .direccion{
 
